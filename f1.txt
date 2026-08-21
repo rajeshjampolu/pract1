@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Practical 1
+=======
+git is dcvs . it will perform praticals what ever we want
+>>>>>>> 5ac7b0e18d3cc46ea7758c93c05ba1b39c99590e
